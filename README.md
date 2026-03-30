@@ -12,7 +12,7 @@ Building agentic systems that actually work in production
 
 ## 🧠 Who I Am
 
-I design and build **scalable backend systems + AI-driven products** with a focus on **real-world deployment, not demos**.
+I design and build **scalable backend systems + AI-driven products** 
 
 * 5+ years in **backend engineering & distributed systems**
 * Building **agent-based AI workflows**
