@@ -23,7 +23,7 @@ I design and build **scalable backend systems + AI-driven products** with a focu
 
 ## 🚀 Featured Project
 
-### 🧵 StitchCV (ex-Hireflow)
+### 🧵 StitchCV 
 
 🔗 [https://stitchcv.in/](https://stitchcv.in/)
 
@@ -82,14 +82,6 @@ Systems:     Microservices | REST | Async (Celery, Redis)
 
 ---
 
-## 🧠 Philosophy
-
-```txt
-Good engineers write code.
-Great engineers design systems.
-Elite engineers design systems that learn.
-```
-
 ---
 
 ## 📫 Contact
@@ -109,51 +101,3 @@ Email:    hiteshkumar111@outlook.com
 
 ---
 
-# 🧬 Alternate Version (Minimal Elite)
-
-If you want something more *mysterious / top-tier engineer style*:
-
----
-
-```md
-# Hitesh Kumar
-
-Backend systems. AI workflows. Real-world scale.
-
-## Work
-- StitchCV → https://stitchcv.in/
-- AI systems, microservices, distributed infra
-
-## Focus
-- Agentic systems
-- Decision intelligence
-- Scalable architectures
-
-## Stack
-Python · Django · FastAPI · AWS · Kubernetes · PostgreSQL
-
-## Contact
-linkedin.com/in/hitesh111
-```
-
----
-
-## 🔥 My Recommendation
-
-Use the **first version** if:
-
-* You want recruiters / hiring managers to notice
-
-Use the **minimal version** if:
-
-* You want to signal *“serious engineer, not trying to impress”*
-
----
-
-If you want next level:
-👉 I can create a **“top 1% GitHub profile”** with
-
-* custom banners
-* animated typing intro
-* project architecture diagrams
-* and positioning you as **AI systems engineer (not just backend dev)**
