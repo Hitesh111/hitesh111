@@ -73,15 +73,6 @@ Systems:     Microservices | REST | Async (Celery, Redis)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ---
 
 ## 📫 Contact
@@ -90,14 +81,6 @@ Systems:     Microservices | REST | Async (Celery, Redis)
 LinkedIn: linkedin.com/in/hitesh111
 Email:    hiteshkumar111@outlook.com
 ```
-
----
-
-## ⚡ Edge
-
-* Built systems used by **real businesses at scale**
-* Combine **backend engineering + AI (rare intersection)**
-* Focus on **execution > hype**
 
 ---
 
