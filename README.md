@@ -1,175 +1,132 @@
 
----
-
-````md
-<p align="center">
-  <img src="YOUR_HEADER_IMAGE_LINK" />
-</p>
 
 ---
 
-```txt
-hitesh kumar
-backend systems / ai / generative art
-````
+# ⚡ hey, i'm hitesh
+
+```bash
+backend systems • ai • generative art
+```
 
 ---
 
-## ◌
+## 🧠 about
 
-i don’t like building things that just sit there
+i build systems that don’t just run — they **observe, adapt, and react**
 
-i like systems that
-watch → adapt → respond
+* ~5 years in backend + distributed systems
+* python, django, microservices, async systems
+* slowly moving into **ai systems that operate in the real world**
 
-sometimes predict
+less interested in models, more in
+**→ how they behave inside systems**
 
 ---
 
-## ◉ current work
+## 🚀 what i'm building
 
-### drashta (private)
+### 🧿 drashta (private for now)
 
 ```txt
 narrative intelligence system
 ```
 
-not monitoring
-not dashboards
+a system for tracking how narratives **form, spread, and escalate**
 
-something closer to:
+* detects coordinated activity (not just “mentions”)
+* tracks lifecycle → emergence → amplification → entrenchment
+* maps *who* is driving a narrative
+* predicts how things might unfold in the next 24–48h
 
-→ observing how narratives form
-→ tracking how they mutate
-→ identifying who is pushing them
-→ estimating where they go next
+most tools tell you what happened
+this tries to tell you what’s coming
 
-```
-emergence → acceleration → entrenchment → ?
-```
-
-still evolving
+*(keeping this private for now — happy to talk about it though)*
 
 ---
 
-### stitchcv
+### 🧵 stitchcv
 
 [https://stitchcv.in/](https://stitchcv.in/)
 
 ```txt
-resume system that behaves like a loop
+ai resume + job search copilot
 ```
 
-input → adapt → improve → repeat
-
-not a tool
-more like a feedback system
+* auto-tailors resumes per job
+* tracks applications
+* built as a **loop, not a one-time tool**
 
 ---
 
-## ◌
+## 🎨 generative art
 
-## ⚙ systems i've worked on
+i also make generative / algorithmic art
 
-```
-ai interview systems
-microservices at scale
-async pipelines
-forecasting systems
-medical imaging models
-```
+→ [https://www.instagram.com/zwa.rt](https://www.instagram.com/zwa.rt)
 
-some clean
-some messy
-all real
+* exploring visuals through code
+* patterns, motion, and controlled randomness
+* sometimes more intuition than logic
 
 ---
 
-## ◉ stack (loosely)
+## ⚙️ stuff i've worked on
 
-```
-python
-django / fastapi
-
-postgres / redis
-celery
-
-aws / docker / kubernetes
-
-pandas / numpy / pytorch
+```txt
+• ai interview platform (django + microservices + kubernetes)
+• workforce optimization system (ai scheduling)
+• backend systems serving real businesses at scale
+• data pipelines for forecasting + analytics
+• medical imaging ml (gan, u-net)
 ```
 
 ---
 
-## ◌
+## 🧰 stack
 
-## 🎨 generative side
-
-instagram → [https://www.instagram.com/zwa.rt](https://www.instagram.com/zwa.rt)
-
-code → visuals → patterns
-
-sometimes deterministic
-sometimes not
-
-```
-logic → noise → structure → beauty
+```python
+python • django • fastapi
+postgres • redis • celery
+aws • docker • kubernetes
+pandas • numpy • pytorch
 ```
 
 ---
 
-## ◉ currently thinking about
+## 🧪 currently exploring
 
-```
-agent systems
-narratives as systems
-decision making
-game theory
-
-and where all of this overlaps
-```
-
----
-
-## ◌
-
-## 🧠 mental model
-
-```
-code
-  ↓
-systems
-  ↓
-intelligence
-  ↓
-expression
+```txt
+→ agentic systems  
+→ narrative / information systems  
+→ decision-making + game theory  
+→ where backend meets intelligence  
+→ generative systems (art + behavior)
 ```
 
 ---
 
-## ◉ reach
-
-```
-linkedin → linkedin.com/in/hitesh111
-email    → hiteshkumar111@outlook.com
-```
 
 ---
 
-## ◌
+## 📫 reach out
+
+* linkedin: linkedin.com/in/hitesh111
+* email: [hiteshkumar111@outlook.com](mailto:hiteshkumar111@outlook.com)
+
+---
+
+
+---
 
 ## 🧬
 
-```
-some systems optimize for scale
+```txt
+some systems optimize for scale  
+some for intelligence  
+some just for beauty  
 
-some optimize for intelligence
-
-some just exist to create something beautiful
-
-i'm trying to build all three
+i like building all three
 ```
 
 ---
-
-
