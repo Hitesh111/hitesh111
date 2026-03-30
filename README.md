@@ -1,125 +1,214 @@
 
 ---
 
-# ⚡ hey, i'm hitesh
+# ⚡ GENERATIVE README (FINAL VERSION)
 
-```bash
-backend systems • ai • things that think before breaking
-```
+Copy-paste this 👇
 
 ---
 
-## 🧠 about
-
-i build systems that don’t just run — they **observe, adapt, and react**
-
-* ~5 years in backend + distributed systems
-* python, django, microservices, async systems
-* slowly moving into **ai systems that operate in the real world**
-
-less interested in models, more in
-**→ how they behave inside systems**
+````md
+<p align="center">
+  <img src="YOUR_HEADER_IMAGE_LINK" />
+</p>
 
 ---
 
-## 🚀 what i'm building
+```txt
+hitesh kumar
+backend systems / ai / generative art
+````
 
-### 🧿 drashta (private for now)
+---
+
+## ◌
+
+i don’t like building things that just sit there
+
+i like systems that
+watch → adapt → respond
+
+sometimes predict
+
+---
+
+## ◉ current work
+
+### drashta (private)
 
 ```txt
 narrative intelligence system
 ```
 
-a system for tracking how narratives **form, spread, and escalate**
+not monitoring
+not dashboards
 
-* detects coordinated activity (not just “mentions”)
-* tracks lifecycle → emergence → amplification → entrenchment
-* maps *who* is driving a narrative
-* predicts how things might unfold in the next 24–48h
+something closer to:
 
-most tools tell you what happened
-this tries to tell you what’s coming
+→ observing how narratives form
+→ tracking how they mutate
+→ identifying who is pushing them
+→ estimating where they go next
 
-*(keeping this private for now — happy to talk about it though)*
+```
+emergence → acceleration → entrenchment → ?
+```
+
+still evolving
 
 ---
 
-### 🧵 stitchcv
+### stitchcv
 
 [https://stitchcv.in/](https://stitchcv.in/)
 
 ```txt
-ai resume + job search copilot
+resume system that behaves like a loop
 ```
 
-* auto-tailors resumes per job
-* tracks applications
-* built as a **loop, not a one-time tool**
+input → adapt → improve → repeat
+
+not a tool
+more like a feedback system
 
 ---
 
-## ⚙️ stuff i've worked on
+## ◌
 
-```txt
-• ai interview platform (django + microservices + kubernetes)
-• workforce optimization system (ai scheduling)
-• backend systems serving real businesses at scale
-• data pipelines for forecasting + analytics
-• medical imaging ml (gan, u-net)
+## ⚙ systems i've worked on
+
 ```
+ai interview systems
+microservices at scale
+async pipelines
+forecasting systems
+medical imaging models
+```
+
+some clean
+some messy
+all real
 
 ---
 
-## 🧰 stack
+## ◉ stack (loosely)
 
-```python
-python • django • fastapi
-postgres • redis • celery
-aws • docker • kubernetes
-pandas • numpy • pytorch
 ```
+python
+django / fastapi
 
----
+postgres / redis
+celery
 
-## 🧪 currently exploring
+aws / docker / kubernetes
 
-```txt
-→ agentic systems  
-→ narrative / information systems  
-→ decision-making + game theory  
-→ where backend meets intelligence
-```
-
----
-
-## 🧠 how i think
-
-```txt
-code → systems → intelligence → strategy
+pandas / numpy / pytorch
 ```
 
 ---
 
-## 📫 reach out
+## ◌
 
-* linkedin: linkedin.com/in/hitesh111
-* email: [hiteshkumar111@outlook.com](mailto:hiteshkumar111@outlook.com)
+## 🎨 generative side
+
+instagram → [https://www.instagram.com/zwa.rt](https://www.instagram.com/zwa.rt)
+
+code → visuals → patterns
+
+sometimes deterministic
+sometimes not
+
+```
+logic → noise → structure → beauty
+```
 
 ---
 
-## ⚡ small edge
+## ◉ currently thinking about
 
-* built systems used by real users (not just side projects)
-* mix of backend + ai + systems thinking
-* trying to move from **writing code → building intelligence**
+```
+agent systems
+narratives as systems
+decision making
+game theory
+
+and where all of this overlaps
+```
 
 ---
+
+## ◌
+
+## 🧠 mental model
+
+```
+code
+  ↓
+systems
+  ↓
+intelligence
+  ↓
+expression
+```
+
+---
+
+## ◉ reach
+
+```
+linkedin → linkedin.com/in/hitesh111
+email    → hiteshkumar111@outlook.com
+```
+
+---
+
+## ◌
 
 ## 🧬
 
-```txt
-i like building things that quietly watch everything
-and then tell you what actually matters
+```
+some systems optimize for scale
+
+some optimize for intelligence
+
+some just exist to create something beautiful
+
+i'm trying to build all three
 ```
 
 ---
+
+````
+
+---
+
+# 🎯 What makes this powerful
+
+This README:
+
+### 1. Feels like your generative art
+- symbols (◌ ◉)
+- spacing + rhythm
+- not overly structured
+
+### 2. Signals depth without over-explaining
+- no buzzwords
+- no corporate tone
+- still communicates serious work
+
+### 3. Matches Drashta’s philosophy
+- narrative
+- systems
+- intelligence
+- evolution
+
+---
+
+# 🔥 Final Step (IMPORTANT)
+
+Replace this:
+
+```md
+<img src="YOUR_HEADER_IMAGE_LINK" />
+````
+
