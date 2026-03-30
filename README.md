@@ -1,86 +1,125 @@
 
 ---
 
-# ⚡ Hitesh Kumar
+# ⚡ hey, i'm hitesh
 
 ```bash
-Backend Engineer → AI Systems Architect
-Building agentic systems that actually work in production
+backend systems • ai • things that think before breaking
 ```
 
 ---
 
-## 🧠 Who I Am
+## 🧠 about
 
-I design and build **scalable backend systems + AI-driven products** 
+i build systems that don’t just run — they **observe, adapt, and react**
 
-* 5+ years in **backend engineering & distributed systems**
-* Building **agent-based AI workflows**
-* Experience with **high-scale APIs, async systems, and cloud infra**
-* Interested in **intelligence systems, decision theory, and simulation**
+* ~5 years in backend + distributed systems
+* python, django, microservices, async systems
+* slowly moving into **ai systems that operate in the real world**
+
+less interested in models, more in
+**→ how they behave inside systems**
 
 ---
 
-## 🚀 Featured Project
+## 🚀 what i'm building
 
-### 🧵 StitchCV 
-
-🔗 [https://stitchcv.in/](https://stitchcv.in/)
+### 🧿 drashta (private for now)
 
 ```txt
-AI Resume Engine + Job Application Copilot
+narrative intelligence system
 ```
 
-* Multi-agent system that tailors resumes per job description
-* Tracks applications + improves job search pipeline
-* Designed for **real user outcomes, not just AI novelty**
+a system for tracking how narratives **form, spread, and escalate**
+
+* detects coordinated activity (not just “mentions”)
+* tracks lifecycle → emergence → amplification → entrenchment
+* maps *who* is driving a narrative
+* predicts how things might unfold in the next 24–48h
+
+most tools tell you what happened
+this tries to tell you what’s coming
+
+*(keeping this private for now — happy to talk about it though)*
 
 ---
 
-## ⚙️ Systems I’ve Built
+### 🧵 stitchcv
+
+[https://stitchcv.in/](https://stitchcv.in/)
 
 ```txt
-• AI Interview Platform (Django microservices + Kubernetes)
-• Workforce Optimization Engine (AI scheduling agents)
-• High-scale REST APIs (10K+ daily transactions)
-• Data pipelines for forecasting & analytics
-• Medical imaging ML systems (GANs, U-Net)
+ai resume + job search copilot
+```
+
+* auto-tailors resumes per job
+* tracks applications
+* built as a **loop, not a one-time tool**
+
+---
+
+## ⚙️ stuff i've worked on
+
+```txt
+• ai interview platform (django + microservices + kubernetes)
+• workforce optimization system (ai scheduling)
+• backend systems serving real businesses at scale
+• data pipelines for forecasting + analytics
+• medical imaging ml (gan, u-net)
 ```
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 stack
 
 ```python
-Backend:     Django | FastAPI | Flask
-Languages:   Python | SQL
-Data:        Pandas | NumPy | PostgreSQL
-AI/ML:       PyTorch | Scikit-learn | CV
-Infra:       AWS | Docker | Kubernetes
-Systems:     Microservices | REST | Async (Celery, Redis)
+python • django • fastapi
+postgres • redis • celery
+aws • docker • kubernetes
+pandas • numpy • pytorch
 ```
 
 ---
 
-## 🧪 Current Exploration
+## 🧪 currently exploring
 
 ```txt
-→ Agentic architectures (multi-agent systems)
-→ AI + systems design convergence
-→ Autonomous workflows & decision systems
-→ Simulation, strategy, and intelligence modeling
+→ agentic systems  
+→ narrative / information systems  
+→ decision-making + game theory  
+→ where backend meets intelligence
 ```
 
 ---
 
----
-
-## 📫 Contact
+## 🧠 how i think
 
 ```txt
-LinkedIn: linkedin.com/in/hitesh111
-Email:    hiteshkumar111@outlook.com
+code → systems → intelligence → strategy
 ```
 
 ---
 
+## 📫 reach out
+
+* linkedin: linkedin.com/in/hitesh111
+* email: [hiteshkumar111@outlook.com](mailto:hiteshkumar111@outlook.com)
+
+---
+
+## ⚡ small edge
+
+* built systems used by real users (not just side projects)
+* mix of backend + ai + systems thinking
+* trying to move from **writing code → building intelligence**
+
+---
+
+## 🧬
+
+```txt
+i like building things that quietly watch everything
+and then tell you what actually matters
+```
+
+---
